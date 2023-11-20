@@ -10,6 +10,7 @@
 - [HTML](#html)
 - [Hack](#hack)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -44,6 +45,7 @@
 
 ## JavaScript 
 
+- [Vorterx/Aztec-MD](https://github.com/Vorterx/Aztec-MD) - 
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: Provide information about anime episodes, not only on the website but also in the readme also this repository will be updated automatically using the API.
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 
@@ -53,6 +55,10 @@
 - [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI) - 🤖 The program seems to be a WhatsApp bot written using the @adiwajshing/baileys library. It sets up a client, handles incoming messages, and provides functions for sending messages and managing contac
 - [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord) - 🤖 An advanced Discord Music Bot with a Dashboard, using distube.js.org having an interactive button & menu system and many features! Supported Features: Spotify • YouTube • SoundCloud • Live Stream • 
 - [BochilTeam/database](https://github.com/BochilTeam/database) - 
+
+## Jupyter Notebook 
+
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 
 ## Markdown 
 

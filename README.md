@@ -46,7 +46,7 @@
 ## JavaScript 
 
 - [darkalphaxteam/CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) - CYBER-X 2.0 WHATSAPP BOT BY DARKALPHAXTEAM
-- [Vorterx/Aztec-MD](https://github.com/Vorterx/Aztec-MD) - 
+- [Vorterx/Aztec-MD](https://github.com/Vorterx/Aztec-MD) - A whatsapp Multi Device bot based on Whiskey
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: Provide information about anime episodes, not only on the website but also in the readme also this repository will be updated automatically using the API.
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 

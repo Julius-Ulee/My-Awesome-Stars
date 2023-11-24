@@ -45,6 +45,8 @@
 
 ## JavaScript 
 
+- [Fortunatusmokaya/DREADED-GPT-AI](https://github.com/Fortunatusmokaya/DREADED-GPT-AI) - 
+- [Janithsadanuwan/QUEEN-NILU-MD](https://github.com/Janithsadanuwan/QUEEN-NILU-MD) - Queen Nilu Is A Multi Device Whatsapp Bot Created By Janiya_x
 - [darkalphaxteam/CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) - CYBER-X 2.0 WHATSAPP BOT BY DARKALPHAXTEAM
 - [Vorterx/Aztec-MD](https://github.com/Vorterx/Aztec-MD) - A whatsapp Multi Device bot based on Whiskey
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes

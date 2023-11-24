@@ -87,6 +87,7 @@
 
 ## TypeScript 
 
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
 
 

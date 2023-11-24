@@ -10,6 +10,7 @@
 - [automation](#automation)
 - [bot](#bot)
 - [chatgpt](#chatgpt)
+- [cli](#cli)
 - [computer-vision](#computer-vision)
 - [dart](#dart)
 - [database](#database)
@@ -22,9 +23,11 @@
 - [machine-learning](#machine-learning)
 - [music](#music)
 - [nlp](#nlp)
+- [node](#node)
 - [others](#others)
 - [python](#python)
 - [termux](#termux)
+- [typescript](#typescript)
 - [web](#web)
 - [website](#website)
 
@@ -48,6 +51,10 @@
 ## chatgpt 
 
 - [Guru322/GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES🚩
+
+## cli 
+
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 
 ## computer-vision 
 
@@ -98,6 +105,10 @@
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 
+## node 
+
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
+
 ## others 
 
 - [Fortunatusmokaya/DREADED-GPT-AI](https://github.com/Fortunatusmokaya/DREADED-GPT-AI) - 
@@ -136,6 +147,10 @@
 ## termux 
 
 - [Guru322/GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES🚩
+
+## typescript 
+
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 
 ## web 
 

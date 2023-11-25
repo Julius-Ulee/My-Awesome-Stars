@@ -2,7 +2,7 @@ name: Update Awesome-Stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: 0 1 * * *
+  - cron: 0 1 * * * # Run at 01:00 UTC
 jobs:
   awesome-stars:
     name: update awesome-stars

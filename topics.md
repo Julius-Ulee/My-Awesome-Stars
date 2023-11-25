@@ -24,8 +24,10 @@
 - [music](#music)
 - [nlp](#nlp)
 - [node](#node)
+- [nodejs](#nodejs)
 - [others](#others)
 - [python](#python)
+- [rest-api](#rest-api)
 - [termux](#termux)
 - [typescript](#typescript)
 - [web](#web)
@@ -109,8 +111,13 @@
 
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 
+## nodejs 
+
+- [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
+
 ## others 
 
+- [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
 - [Fortunatusmokaya/DREADED-GPT-AI](https://github.com/Fortunatusmokaya/DREADED-GPT-AI) - 
 - [Janithsadanuwan/QUEEN-NILU-MD](https://github.com/Janithsadanuwan/QUEEN-NILU-MD) - Queen Nilu Is A Multi Device Whatsapp Bot Created By Janiya_x
 - [darkalphaxteam/CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) - CYBER-X 2.0 WHATSAPP BOT BY DARKALPHAXTEAM
@@ -143,6 +150,10 @@
 ## python 
 
 - [Julius-Ulee/Program-ATM](https://github.com/Julius-Ulee/Program-ATM) - 🏧 Membuat Program ATM Sederhana Menggunakan Python update lagi nih studi kasus tentang python, pada kesempatan kali ini kita akan membahan tentang ATM, kamu pasti pernah menggunakan ATM, untuk mengece
+
+## rest-api 
+
+- [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
 
 ## termux 
 

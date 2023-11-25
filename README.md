@@ -46,6 +46,7 @@
 
 ## JavaScript 
 
+- [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 - [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
 - [Fortunatusmokaya/DREADED-GPT-AI](https://github.com/Fortunatusmokaya/DREADED-GPT-AI) - 
 - [Janithsadanuwan/QUEEN-NILU-MD](https://github.com/Janithsadanuwan/QUEEN-NILU-MD) - Queen Nilu Is A Multi Device Whatsapp Bot Created By Janiya_x

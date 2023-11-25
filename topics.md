@@ -15,6 +15,7 @@
 - [dart](#dart)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [discord](#discord)
 - [flutter](#flutter)
 - [game](#game)
 - [hacktoberfest](#hacktoberfest)
@@ -48,6 +49,7 @@
 
 ## bot 
 
+- [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 - [Guru322/GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES🚩
 
 ## chatgpt 
@@ -73,6 +75,10 @@
 ## deep-learning 
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+
+## discord 
+
+- [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 
 ## flutter 
 
@@ -101,6 +107,7 @@
 
 ## music 
 
+- [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 - [Julius-Ulee/AmeliaBot-Discord](https://github.com/Julius-Ulee/AmeliaBot-Discord) - 🤖 An advanced Discord Music Bot with a Dashboard, using distube.js.org having an interactive button & menu system and many features! Supported Features: Spotify • YouTube • SoundCloud • Live Stream • 
 
 ## nlp 
@@ -113,6 +120,7 @@
 
 ## nodejs 
 
+- [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 - [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
 
 ## others 

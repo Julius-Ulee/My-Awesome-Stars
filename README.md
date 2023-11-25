@@ -19,6 +19,7 @@
 
 ## CSS 
 
+- [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
 - [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website) - tamplate untuk pemula
 - [Julius-Ulee/Sweetcake](https://github.com/Julius-Ulee/Sweetcake) - 🥞 Tujuan proyek ini adalah membuat situs web untuk toko kue yang mencakup fitur-fitur seperti daftar produk, login pengguna, pembayaran, dan pembayaran. Website ini akan dikembangkan menggunakan HTML,
 
@@ -45,6 +46,7 @@
 
 ## JavaScript 
 
+- [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
 - [Fortunatusmokaya/DREADED-GPT-AI](https://github.com/Fortunatusmokaya/DREADED-GPT-AI) - 
 - [Janithsadanuwan/QUEEN-NILU-MD](https://github.com/Janithsadanuwan/QUEEN-NILU-MD) - Queen Nilu Is A Multi Device Whatsapp Bot Created By Janiya_x
 - [darkalphaxteam/CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) - CYBER-X 2.0 WHATSAPP BOT BY DARKALPHAXTEAM

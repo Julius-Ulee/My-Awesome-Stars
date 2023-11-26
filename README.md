@@ -13,6 +13,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
@@ -75,6 +76,10 @@
 
 - [Julius-Ulee/My-Awesome-Stars](https://github.com/Julius-Ulee/My-Awesome-Stars) - 🌟 My Awesome List. List of repositories starred by Julius-Ulee.
 - [Julius-Ulee/Julius-Ulee](https://github.com/Julius-Ulee/Julius-Ulee) - :shipit: A Magic Readme 🌟🧙‍♀️
+
+## PHP 
+
+- [barbushin/php-imap](https://github.com/barbushin/php-imap) - Manage mailboxes, filter/get/delete emails in PHP (supports IMAP/POP3/NNTP)
 
 ## Python 
 

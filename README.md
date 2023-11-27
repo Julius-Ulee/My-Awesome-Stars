@@ -32,7 +32,6 @@
 
 - [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
 - [NatsumeLS/Natsu-Genshin-StarRail-Stats](https://github.com/NatsumeLS/Natsu-Genshin-StarRail-Stats) - Natsu's Certain Anime Game Stats
-- [NyaruToru/MihoyoGame-stats](https://github.com/NyaruToru/MihoyoGame-stats) - 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Julius-Ulee-Company/Crypto-Mining](https://github.com/Julius-Ulee-Company/Crypto-Mining) - Cyaa :V
 - [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.

@@ -137,7 +137,6 @@
 - [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
 - [DomathID/upptime](https://github.com/DomathID/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [NatsumeLS/Natsu-Genshin-StarRail-Stats](https://github.com/NatsumeLS/Natsu-Genshin-StarRail-Stats) - Natsu's Certain Anime Game Stats
-- [NyaruToru/MihoyoGame-stats](https://github.com/NyaruToru/MihoyoGame-stats) - 
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: Provide information about anime episodes, not only on the website but also in the readme also this repository will be updated automatically using the API.
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 

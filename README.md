@@ -37,7 +37,7 @@
 - [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.
 - [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. Also Anime Game Stats can do auto check-in and auto r
 - [Julius-Ulee/julius-ulee.github.io](https://github.com/Julius-Ulee/julius-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website, which is a one-page HTML created with CSS and Jquery. This website is designed to showcase my skills, experience, and projects.
-- [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats) - 🌟 The program is a Python script that uses several libraries and modules to generate HTML files containing information about Genshin Impact game users and auto redeem codes. 🌳
+- [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
 - [Julius-Ulee/Donate](https://github.com/Julius-Ulee/Donate) - Support me
 
 ## Hack 

@@ -127,9 +127,6 @@
 
 - [barbushin/php-imap](https://github.com/barbushin/php-imap) - Manage mailboxes, filter/get/delete emails in PHP (supports IMAP/POP3/NNTP)
 - [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
-- [Fortunatusmokaya/DREADED-GPT-AI](https://github.com/Fortunatusmokaya/DREADED-GPT-AI) - 
-- [Janithsadanuwan/QUEEN-NILU-MD](https://github.com/Janithsadanuwan/QUEEN-NILU-MD) - Queen Nilu Is A Multi Device Whatsapp Bot Created By Janiya_x
-- [darkalphaxteam/CYBER-X-WHATSAPP-BOT](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT) - CYBER-X 2.0 WHATSAPP BOT BY DARKALPHAXTEAM
 - [Vorterx/Aztec-MD](https://github.com/Vorterx/Aztec-MD) - A whatsapp Multi Device bot based on Whiskey
 - [Julius-Ulee/My-Awesome-Stars](https://github.com/Julius-Ulee/My-Awesome-Stars) - 🌟 My Awesome List. List of repositories starred by Julius-Ulee.
 - [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python) - All Algorithms implemented in Python

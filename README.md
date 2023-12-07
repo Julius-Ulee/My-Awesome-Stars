@@ -30,6 +30,7 @@
 
 ## HTML 
 
+- [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
 - [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
 - [NatsumeLS/Natsu-Genshin-StarRail-Stats](https://github.com/NatsumeLS/Natsu-Genshin-StarRail-Stats) - Natsu's Certain Anime Game Stats
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -37,7 +38,6 @@
 - [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.
 - [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. Also Anime Game Stats can do auto check-in and auto r
 - [Julius-Ulee/julius-ulee.github.io](https://github.com/Julius-Ulee/julius-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website, which is a one-page HTML created with CSS and Jquery. This website is designed to showcase my skills, experience, and projects.
-- [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
 - [Julius-Ulee/Donate](https://github.com/Julius-Ulee/Donate) - Support me
 
 ## Hack 

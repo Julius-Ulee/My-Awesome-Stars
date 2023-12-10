@@ -46,6 +46,7 @@
 
 ## JavaScript 
 
+- [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 - [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
@@ -74,6 +75,7 @@
 
 ## PHP 
 
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 - [barbushin/php-imap](https://github.com/barbushin/php-imap) - Manage mailboxes, filter/get/delete emails in PHP (supports IMAP/POP3/NNTP)
 
 ## Python 

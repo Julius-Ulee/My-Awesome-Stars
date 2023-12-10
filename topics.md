@@ -19,16 +19,20 @@
 - [flutter](#flutter)
 - [game](#game)
 - [hacktoberfest](#hacktoberfest)
+- [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
+- [laravel](#laravel)
 - [machine-learning](#machine-learning)
 - [music](#music)
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
 - [others](#others)
+- [php](#php)
 - [python](#python)
 - [rest-api](#rest-api)
+- [symfony](#symfony)
 - [termux](#termux)
 - [typescript](#typescript)
 - [web](#web)
@@ -93,6 +97,10 @@
 
 - [phpid-jakarta/ajari-koding](https://github.com/phpid-jakarta/ajari-koding) - 📚 Kumpulan berbagai sumber daya untuk belajar koding dari hasil karya para kreator lokal yang terpercaya dan telah dikurasi oleh komunitas PHPID
 
+## javascript 
+
+- [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
+
 ## jekyll 
 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -100,6 +108,10 @@
 ## jekyll-theme 
 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+
+## laravel 
+
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 
 ## machine-learning 
 
@@ -151,6 +163,10 @@
 - [BochilTeam/database](https://github.com/BochilTeam/database) - 
 - [Julius-Ulee/Julius-Ulee](https://github.com/Julius-Ulee/Julius-Ulee) - :shipit: A Magic Readme 🌟🧙‍♀️
 
+## php 
+
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
+
 ## python 
 
 - [Julius-Ulee/Program-ATM](https://github.com/Julius-Ulee/Program-ATM) - 🏧 Membuat Program ATM Sederhana Menggunakan Python update lagi nih studi kasus tentang python, pada kesempatan kali ini kita akan membahan tentang ATM, kamu pasti pernah menggunakan ATM, untuk mengece
@@ -158,6 +174,10 @@
 ## rest-api 
 
 - [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
+
+## symfony 
+
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 
 ## termux 
 

@@ -142,7 +142,7 @@
 - [Julius-Ulee/My-Awesome-Stars](https://github.com/Julius-Ulee/My-Awesome-Stars) - 🌟 My Awesome List. List of repositories starred by Julius-Ulee.
 - [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python) - All Algorithms implemented in Python
 - [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
-- [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
+- [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
 - [DomathID/upptime](https://github.com/DomathID/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [NatsumeLS/Natsu-Genshin-StarRail-Stats](https://github.com/NatsumeLS/Natsu-Genshin-StarRail-Stats) - Natsu's Certain Anime Game Stats
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes

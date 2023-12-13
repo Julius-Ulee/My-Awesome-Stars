@@ -65,7 +65,7 @@
 
 ## Markdown 
 
-- [Julius-Ulee/Status](https://github.com/Julius-Ulee/Status) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
+- [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
 - [DomathID/upptime](https://github.com/DomathID/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 
 ## Others 

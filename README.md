@@ -70,6 +70,7 @@
 
 ## Others 
 
+- [Julius-Ulee/github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
 - [Julius-Ulee/My-Awesome-Stars](https://github.com/Julius-Ulee/My-Awesome-Stars) - 🌟 My Awesome List. List of repositories starred by Julius-Ulee.
 - [Julius-Ulee/Julius-Ulee](https://github.com/Julius-Ulee/Julius-Ulee) - :shipit: A Magic Readme 🌟🧙‍♀️
 

@@ -145,7 +145,6 @@
 - [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
 - [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
 - [DomathID/upptime](https://github.com/DomathID/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
-- [NatsumeLS/Natsu-Genshin-StarRail-Stats](https://github.com/NatsumeLS/Natsu-Genshin-StarRail-Stats) - Natsu's Certain Anime Game Stats
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: Provide information about anime episodes, not only on the website but also in the readme also this repository will be updated automatically using the API.
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 

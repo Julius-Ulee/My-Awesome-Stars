@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [bot](#bot)
@@ -32,6 +33,7 @@
 - [php](#php)
 - [python](#python)
 - [rest-api](#rest-api)
+- [serverless](#serverless)
 - [symfony](#symfony)
 - [termux](#termux)
 - [typescript](#typescript)
@@ -42,6 +44,10 @@
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [Guru322/GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES🚩
+
+## api 
+
+- [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time
 
 ## artificial-intelligence 
 
@@ -137,6 +143,8 @@
 
 ## others 
 
+- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
+- [AnandChowdhary/life](https://github.com/AnandChowdhary/life) - 🧬 All life data — location, health, work, play, and more — open sourced
 - [Julius-Ulee/github-profile-views-counter](https://github.com/Julius-Ulee/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
 - [barbushin/php-imap](https://github.com/barbushin/php-imap) - Manage mailboxes, filter/get/delete emails in PHP (supports IMAP/POP3/NNTP)
 - [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
@@ -175,6 +183,10 @@
 
 - [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
 
+## serverless 
+
+- [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time
+
 ## symfony 
 
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
@@ -185,6 +197,7 @@
 
 ## typescript 
 
+- [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 
 ## web 

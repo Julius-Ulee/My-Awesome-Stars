@@ -49,7 +49,6 @@
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 - [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
-- [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: Provide information about anime episodes, not only on the website but also in the readme also this repository will be updated automatically using the API.
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 
 - [Guru322/GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES🚩
 - [Julius-Ulee/Daily-Check-In-Anime-Game](https://github.com/Julius-Ulee/Daily-Check-In-Anime-Game) - ✅ This script will automatically check in every day in HoYoLab, and works with Genshin Impact, Honkai Star Rail and Honkai Impact 3rd too

@@ -154,7 +154,6 @@
 - [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
 - [DomathID/upptime](https://github.com/DomathID/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
-- [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: Provide information about anime episodes, not only on the website but also in the readme also this repository will be updated automatically using the API.
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 
 - [Julius-Ulee-Company/Crypto-Mining](https://github.com/Julius-Ulee-Company/Crypto-Mining) - Cyaa :V
 - [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.

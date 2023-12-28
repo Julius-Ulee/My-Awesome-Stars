@@ -16,6 +16,7 @@
 - [dart](#dart)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [design](#design)
 - [discord](#discord)
 - [flutter](#flutter)
 - [game](#game)
@@ -31,6 +32,7 @@
 - [nodejs](#nodejs)
 - [others](#others)
 - [php](#php)
+- [programming](#programming)
 - [python](#python)
 - [rest-api](#rest-api)
 - [serverless](#serverless)
@@ -38,6 +40,7 @@
 - [termux](#termux)
 - [typescript](#typescript)
 - [web](#web)
+- [webapp](#webapp)
 - [website](#website)
 
 ## ai 
@@ -85,6 +88,10 @@
 ## deep-learning 
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+
+## design 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## discord 
 
@@ -174,8 +181,13 @@
 
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 
+## programming 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
 ## python 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Julius-Ulee/Program-ATM](https://github.com/Julius-Ulee/Program-ATM) - 🏧 Membuat Program ATM Sederhana Menggunakan Python update lagi nih studi kasus tentang python, pada kesempatan kali ini kita akan membahan tentang ATM, kamu pasti pernah menggunakan ATM, untuk mengece
 
 ## rest-api 
@@ -201,7 +213,12 @@
 
 ## web 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website) - tamplate untuk pemula
+
+## webapp 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## website 
 

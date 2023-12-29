@@ -15,6 +15,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 
@@ -87,6 +88,10 @@
 - [Julius-Ulee/Program-ATM](https://github.com/Julius-Ulee/Program-ATM) - 🏧 Membuat Program ATM Sederhana Menggunakan Python update lagi nih studi kasus tentang python, pada kesempatan kali ini kita akan membahan tentang ATM, kamu pasti pernah menggunakan ATM, untuk mengece
 - [Julius-Ulee/Discord-Online-Voice](https://github.com/Julius-Ulee/Discord-Online-Voice) - The program is a Discord bot implemented using the discord.py library to interact with the Discord API. The bot joins a Discord server and automatically enters a specific voice channel, then performs 
 - [Julius-Ulee/Love-Valentine](https://github.com/Julius-Ulee/Love-Valentine) - khusus buat pasangan
+
+## Shell 
+
+- [Julius-Ulee/Daily-Weather](https://github.com/Julius-Ulee/Daily-Weather) - 🌡️ This Bash script retrieves weather information from the OpenWeatherMap API for the city of Depok, converts the temperature from Kelvin to Celsius, and updates the content of the README.md file in a
 
 ## Svelte 
 

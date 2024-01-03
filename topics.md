@@ -150,6 +150,7 @@
 
 ## others 
 
+- [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [Julius-Ulee/Daily-Weather-Report](https://github.com/Julius-Ulee/Daily-Weather-Report) - 🌡️ This Bash script retrieves weather information from the OpenWeatherMap API for the city of Depok, converts the temperature from Kelvin to Celsius, and updates the content of the README.md file in a
 - [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
 - [AnandChowdhary/life](https://github.com/AnandChowdhary/life) - 🧬 All life data — location, health, work, play, and more — open sourced

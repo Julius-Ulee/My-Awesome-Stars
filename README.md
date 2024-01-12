@@ -22,7 +22,6 @@
 ## CSS 
 
 - [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
-- [Julius-Ulee/tamplate-website](https://github.com/Julius-Ulee/tamplate-website) - tamplate untuk pemula
 - [Julius-Ulee/Sweetcake](https://github.com/Julius-Ulee/Sweetcake) - 🥞 Tujuan proyek ini adalah membuat situs web untuk toko kue yang mencakup fitur-fitur seperti daftar produk, login pengguna, pembayaran, dan pembayaran. Website ini akan dikembangkan menggunakan HTML,
 
 ## Dart 
@@ -38,7 +37,6 @@
 - [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.
 - [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. Also Anime Game Stats can do auto check-in and auto r
 - [Julius-Ulee/julius-ulee.github.io](https://github.com/Julius-Ulee/julius-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website, which is a one-page HTML created with CSS and Jquery. This website is designed to showcase my skills, experience, and projects.
-- [Julius-Ulee/Donate](https://github.com/Julius-Ulee/Donate) - Support me
 
 ## Hack 
 
@@ -87,8 +85,6 @@
 - [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python) - All Algorithms implemented in Python
 - [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan) - 📚 The program presented is a simple program for a Digital Library. This program utilizes object-oriented programming concepts by using several classes, namely `Color`, `Library`, `Person`, and `Studen
 - [Julius-Ulee/Program-ATM](https://github.com/Julius-Ulee/Program-ATM) - 🏧 Membuat Program ATM Sederhana Menggunakan Python update lagi nih studi kasus tentang python, pada kesempatan kali ini kita akan membahan tentang ATM, kamu pasti pernah menggunakan ATM, untuk mengece
-- [Julius-Ulee/Discord-Online-Voice](https://github.com/Julius-Ulee/Discord-Online-Voice) - The program is a Discord bot implemented using the discord.py library to interact with the Discord API. The bot joins a Discord server and automatically enters a specific voice channel, then performs 
-- [Julius-Ulee/Love-Valentine](https://github.com/Julius-Ulee/Love-Valentine) - khusus buat pasangan
 
 ## Shell 
 

@@ -22,7 +22,6 @@
 ## CSS 
 
 - [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
-- [Julius-Ulee/Sweetcake](https://github.com/Julius-Ulee/Sweetcake) - 🥞 Tujuan proyek ini adalah membuat situs web untuk toko kue yang mencakup fitur-fitur seperti daftar produk, login pengguna, pembayaran, dan pembayaran. Website ini akan dikembangkan menggunakan HTML,
 
 ## Dart 
 

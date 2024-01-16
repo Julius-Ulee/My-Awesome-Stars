@@ -193,7 +193,6 @@
 - [Julius-Ulee/holobyte.github.io](https://github.com/Julius-Ulee/holobyte.github.io) - 🦖Holobyte Hunted, This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
 - [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI) - 🤖 The program seems to be a WhatsApp bot written using the @adiwajshing/baileys library. It sets up a client, handles incoming messages, and provides functions for sending messages and managing contac
 - [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan) - 📚 The program presented is a simple program for a Digital Library. This program utilizes object-oriented programming concepts by using several classes, namely `Color`, `Library`, `Person`, and `Studen
-- [Julius-Ulee/Sweetcake](https://github.com/Julius-Ulee/Sweetcake) - 🥞 Tujuan proyek ini adalah membuat situs web untuk toko kue yang mencakup fitur-fitur seperti daftar produk, login pengguna, pembayaran, dan pembayaran. Website ini akan dikembangkan menggunakan HTML,
 - [BochilTeam/database](https://github.com/BochilTeam/database) - 
 - [Julius-Ulee/Julius-Ulee](https://github.com/Julius-Ulee/Julius-Ulee) - :shipit: A Magic Readme 🌟🧙‍♀️
 

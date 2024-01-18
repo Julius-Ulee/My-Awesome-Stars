@@ -54,7 +54,7 @@
 
 ## api 
 
-- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
+- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 - [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time
 
 ## artificial-intelligence 
@@ -84,7 +84,7 @@
 
 ## css 
 
-- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
+- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 
 ## dart 
 
@@ -121,11 +121,11 @@
 
 ## html 
 
-- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
+- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 
 ## javascript 
 
-- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
+- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 
 ## jekyll 
@@ -142,7 +142,7 @@
 
 ## library 
 
-- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
+- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 
 ## machine-learning 
 
@@ -155,7 +155,7 @@
 
 ## mysql 
 
-- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
+- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 
 ## nlp 
 
@@ -172,6 +172,7 @@
 
 ## others 
 
+- [Julius-Ulee/Paw-Paw](https://github.com/Julius-Ulee/Paw-Paw) - 😺 Paw-Paw is an e-commerce platform created with Codeigniter. With the increasing prevalence of Paw-Paw pet shops, there is an initiative to develop a website to reach a wider market.
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [Julius-Ulee/Daily-Weather-Report](https://github.com/Julius-Ulee/Daily-Weather-Report) - 🌡️ This Bash script retrieves weather information from the OpenWeatherMap API for the city of Depok, converts the temperature from Kelvin to Celsius, and updates the content of the README.md file in a
 - [AnandChowdhary/life](https://github.com/AnandChowdhary/life) - 🧬 All life data — location, health, work, play, and more — open sourced
@@ -198,7 +199,7 @@
 
 ## php 
 
-- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 Aplikasi Destiny.Industries ini dibuat sesuai dengan kebijaksanaan dan permintaan dari pihak Tokoku untuk menangani sistem informasi penjualan baju yang diterapkannya.
+- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 
 ## programming 

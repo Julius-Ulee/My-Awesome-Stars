@@ -21,6 +21,8 @@
 - [discord](#discord)
 - [flutter](#flutter)
 - [game](#game)
+- [github](#github)
+- [github-api](#github-api)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [javascript](#javascript)
@@ -40,6 +42,7 @@
 - [python](#python)
 - [rest-api](#rest-api)
 - [serverless](#serverless)
+- [statistics](#statistics)
 - [symfony](#symfony)
 - [termux](#termux)
 - [typescript](#typescript)
@@ -115,6 +118,14 @@
 - [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
 - [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. Also Anime Game Stats can do auto check-in and auto r
 
+## github 
+
+- [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
+
+## github-api 
+
+- [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
+
 ## hacktoberfest 
 
 - [phpid-jakarta/ajari-koding](https://github.com/phpid-jakarta/ajari-koding) - 📚 Kumpulan berbagai sumber daya untuk belajar koding dari hasil karya para kreator lokal yang terpercaya dan telah dikurasi oleh komunitas PHPID
@@ -172,6 +183,8 @@
 
 ## others 
 
+- [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
+- [ruuuruiya/temanni](https://github.com/ruuuruiya/temanni) - 
 - [Julius-Ulee/Paw-Paw](https://github.com/Julius-Ulee/Paw-Paw) - 😺 Paw-Paw is an e-commerce platform created with Codeigniter. With the increasing prevalence of Paw-Paw pet shops, there is an initiative to develop a website to reach a wider market.
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [Julius-Ulee/Daily-Weather-Report](https://github.com/Julius-Ulee/Daily-Weather-Report) - 🌡️ This Bash script retrieves weather information from the OpenWeatherMap API for the city of Depok, converts the temperature from Kelvin to Celsius, and updates the content of the README.md file in a
@@ -218,6 +231,10 @@
 ## serverless 
 
 - [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time
+
+## statistics 
+
+- [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
 
 ## symfony 
 

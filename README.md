@@ -43,6 +43,8 @@
 
 ## JavaScript 
 
+- [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
+- [ruuuruiya/temanni](https://github.com/ruuuruiya/temanni) - 
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
@@ -81,6 +83,7 @@
 
 ## Python 
 
+- [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Julius-Ulee/Python](https://github.com/Julius-Ulee/Python) - All Algorithms implemented in Python
 - [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan) - 📚 The program presented is a simple program for a Digital Library. This program utilizes object-oriented programming concepts by using several classes, namely `Color`, `Library`, `Person`, and `Studen

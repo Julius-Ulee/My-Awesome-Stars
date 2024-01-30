@@ -91,7 +91,7 @@
 
 ## Shell 
 
-- [Julius-Ulee/Daily-Weather-Report](https://github.com/Julius-Ulee/Daily-Weather-Report) - 🌡️ This Bash script retrieves weather information from the OpenWeatherMap API for the city of Depok, converts the temperature from Kelvin to Celsius, and updates the content of the README.md file in a
+- [Julius-Ulee/Daily-Weather-Report](https://github.com/Julius-Ulee/Daily-Weather-Report) - 🌡️ This Bash script retrieves weather information from the OpenWeatherMap API for your city, changes the temperature from Kelvin to Celsius, and updates the contents of the README.md file in the Git r
 
 ## Svelte 
 

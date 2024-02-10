@@ -185,6 +185,7 @@
 
 ## others 
 
+- [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
 - [ruuuruiya/temanni](https://github.com/ruuuruiya/temanni) - 
 - [Julius-Ulee/Paw-Paw](https://github.com/Julius-Ulee/Paw-Paw) - 😺 Paw-Paw is an e-commerce platform created with Codeigniter. With the increasing prevalence of Paw-Paw pet shops, there is an initiative to develop a website to reach a wider market.

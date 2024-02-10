@@ -43,6 +43,7 @@
 
 ## JavaScript 
 
+- [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
 - [ruuuruiya/temanni](https://github.com/ruuuruiya/temanni) - 
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 

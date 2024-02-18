@@ -185,6 +185,7 @@
 
 ## others 
 
+- [Julius-Ulee/database](https://github.com/Julius-Ulee/database) - 🗃️ Made using a scraper
 - [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
 - [ruuuruiya/temanni](https://github.com/ruuuruiya/temanni) - 

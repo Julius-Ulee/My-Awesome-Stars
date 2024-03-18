@@ -71,6 +71,7 @@
 
 ## bot 
 
+- [gssbotwa/Gssbotwa2](https://github.com/gssbotwa/Gssbotwa2) - GSSBOTWA MD  is a Cool Multi-Device WhatsApp bot developed by Ethix Sid & CH HASEEB. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 - [Guru322/GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES🚩
 
@@ -138,6 +139,7 @@
 
 ## javascript 
 
+- [gssbotwa/Gssbotwa2](https://github.com/gssbotwa/Gssbotwa2) - GSSBOTWA MD  is a Cool Multi-Device WhatsApp bot developed by Ethix Sid & CH HASEEB. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 - [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 
@@ -186,7 +188,6 @@
 ## others 
 
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
-- [gssbotwa/Gssbotwa2](https://github.com/gssbotwa/Gssbotwa2) - 
 - [Julius-Ulee/database](https://github.com/Julius-Ulee/database) - 🗃️ Made using a scraper
 - [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 

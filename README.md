@@ -44,7 +44,7 @@
 ## JavaScript 
 
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
-- [gssbotwa/Gssbotwa2](https://github.com/gssbotwa/Gssbotwa2) - 
+- [gssbotwa/Gssbotwa2](https://github.com/gssbotwa/Gssbotwa2) - GSSBOTWA MD  is a Cool Multi-Device WhatsApp bot developed by Ethix Sid & CH HASEEB. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 - [Julius-Ulee/database](https://github.com/Julius-Ulee/database) - 🗃️ Made using a scraper
 - [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 

@@ -71,6 +71,7 @@
 
 ## bot 
 
+- [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
 - [gssbotwa/Gssbotwa2](https://github.com/gssbotwa/Gssbotwa2) - GSSBOTWA MD  is a Cool Multi-Device WhatsApp bot developed by Ethix Sid & CH HASEEB. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 - [Guru322/GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES🚩
@@ -110,6 +111,7 @@
 
 ## discord 
 
+- [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 
 ## flutter 

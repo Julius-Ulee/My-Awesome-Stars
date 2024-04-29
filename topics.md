@@ -20,6 +20,7 @@
 - [design](#design)
 - [discord](#discord)
 - [flutter](#flutter)
+- [frontend](#frontend)
 - [game](#game)
 - [github](#github)
 - [github-api](#github-api)
@@ -117,6 +118,10 @@
 ## flutter 
 
 - [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
+
+## frontend 
+
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 
 ## game 
 

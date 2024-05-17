@@ -43,6 +43,7 @@
 
 ## JavaScript 
 
+- [Julius-Ulee/blowfish](https://github.com/Julius-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [gssbotwa/Gssbotwa2](https://github.com/gssbotwa/Gssbotwa2) - GSSBOTWA MD  is a Cool Multi-Device WhatsApp bot developed by Ethix Sid & CH HASEEB. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.

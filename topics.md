@@ -24,6 +24,8 @@
 - [game](#game)
 - [github](#github)
 - [github-api](#github-api)
+- [go](#go)
+- [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [javascript](#javascript)
@@ -31,6 +33,7 @@
 - [jekyll-theme](#jekyll-theme)
 - [laravel](#laravel)
 - [library](#library)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [music](#music)
 - [mysql](#mysql)
@@ -136,6 +139,14 @@
 
 - [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
 
+## go 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+
+## golang 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+
 ## hacktoberfest 
 
 - [phpid-jakarta/ajari-koding](https://github.com/phpid-jakarta/ajari-koding) - 📚 Kumpulan berbagai sumber daya untuk belajar koding dari hasil karya para kreator lokal yang terpercaya dan telah dikurasi oleh komunitas PHPID
@@ -165,6 +176,10 @@
 ## library 
 
 - [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
+
+## llm 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 
 ## machine-learning 
 

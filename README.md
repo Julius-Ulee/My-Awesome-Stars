@@ -63,7 +63,7 @@
 - [zeeoneofficial/example-case](https://github.com/zeeoneofficial/example-case) - Example case from my api 🔥
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 
-- [Guru322/GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT LOADED WITH FEATURES🚩
+- [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - A SIMPLE YET COMPLICATED AI Chat Robot LOADED WITH FEATURES🚩
 - [Julius-Ulee/Daily-Check-In-Anime-Game](https://github.com/Julius-Ulee/Daily-Check-In-Anime-Game) - ✅ This script will automatically check in every day in HoYoLab, and works with Genshin Impact, Honkai Star Rail and Honkai Impact 3rd too
 - [Julius-Ulee/holobyte.github.io](https://github.com/Julius-Ulee/holobyte.github.io) - 🦖Holobyte Hunted, This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
 - [Julius-Ulee/WhatsApp-OpenAI](https://github.com/Julius-Ulee/WhatsApp-OpenAI) - 🤖 The program seems to be a WhatsApp bot written using the @adiwajshing/baileys library. It sets up a client, handles incoming messages, and provides functions for sending messages and managing contac

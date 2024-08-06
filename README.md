@@ -40,7 +40,7 @@
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [Julius-Ulee-Company/Crypto-Mining](https://github.com/Julius-Ulee-Company/Crypto-Mining) - Cyaa :V
 - [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.
-- [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. Also Anime Game Stats can do auto check-in and auto r
+- [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from Hoyoverse games. Also Anime Game Stats can do auto check-in and auto redeem codes.
 - [Julius-Ulee/julius-ulee.github.io](https://github.com/Julius-Ulee/julius-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website, which is a one-page HTML created with CSS and Jquery. This website is designed to showcase my skills, experience, and projects.
 
 ## Hack 

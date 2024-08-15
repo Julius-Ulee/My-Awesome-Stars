@@ -56,7 +56,6 @@
 - [Julius-Ulee/database](https://github.com/Julius-Ulee/database) - 🗃️ Made using a scraper
 - [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
-- [ruuuruiya/temanni](https://github.com/ruuuruiya/temanni) - 
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu

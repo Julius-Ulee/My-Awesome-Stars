@@ -6,10 +6,12 @@
 ## Contents
 
 - [ai](#ai)
+- [android](#android)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [bot](#bot)
+- [c](#c)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [computer-vision](#computer-vision)
@@ -59,6 +61,10 @@
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
 
+## android 
+
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
 ## api 
 
 - [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
@@ -77,6 +83,10 @@
 
 - [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
+
+## c 
+
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 ## chatgpt 
 

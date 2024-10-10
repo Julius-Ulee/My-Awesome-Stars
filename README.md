@@ -6,9 +6,9 @@
 ## Contents
 
 - [C](#c)
-- [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
+- [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
 - [JavaScript](#javascript)
@@ -25,10 +25,6 @@
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
-## C++ 
-
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-
 ## CSS 
 
 - [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
@@ -36,6 +32,10 @@
 ## Dart 
 
 - [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
+
+## Go 
+
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## HTML 
 

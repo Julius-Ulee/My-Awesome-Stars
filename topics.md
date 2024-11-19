@@ -225,7 +225,6 @@
 - [Julius-Ulee/groqAI-api](https://github.com/Julius-Ulee/groqAI-api) - ⭐ This project retrieves data from Groq AI using API.
 - [Julius-Ulee/blowfish](https://github.com/Julius-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
-- [Julius-Ulee/database](https://github.com/Julius-Ulee/database) - 🗃️ Made using a scraper
 - [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
 - [Julius-Ulee/Paw-Paw](https://github.com/Julius-Ulee/Paw-Paw) - 😺 Paw-Paw is an e-commerce platform created with Codeigniter. With the increasing prevalence of Paw-Paw pet shops, there is an initiative to develop a website to reach a wider market.

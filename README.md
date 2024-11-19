@@ -57,7 +57,6 @@
 - [Julius-Ulee/groqAI-api](https://github.com/Julius-Ulee/groqAI-api) - ⭐ This project retrieves data from Groq AI using API.
 - [Julius-Ulee/blowfish](https://github.com/Julius-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
-- [Julius-Ulee/database](https://github.com/Julius-Ulee/database) - 🗃️ Made using a scraper
 - [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
 - [Julius-Ulee/Announcements-Anime](https://github.com/Julius-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 

@@ -172,6 +172,7 @@
 ## jekyll 
 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 
 ## jekyll-theme 
 
@@ -239,7 +240,6 @@
 - [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
 - [Julius-Ulee/Status-Page-Advanced](https://github.com/Julius-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
 - [DomathID/upptime](https://github.com/DomathID/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 
 - [Julius-Ulee-Company/Crypto-Mining](https://github.com/Julius-Ulee-Company/Crypto-Mining) - Cyaa :V
 - [Julius-Ulee/Crypto-Mining](https://github.com/Julius-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.

@@ -223,6 +223,7 @@
 
 ## others 
 
+- [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Julius-Ulee/groqAI-api](https://github.com/Julius-Ulee/groqAI-api) - ⭐ This project retrieves data from Groq AI using API.
 - [Julius-Ulee/blowfish](https://github.com/Julius-Ulee/blowfish) - Personal Website & Blog Theme for Hugo

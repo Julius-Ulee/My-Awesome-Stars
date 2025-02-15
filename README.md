@@ -18,7 +18,9 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
+- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 
@@ -40,6 +42,7 @@
 
 ## HTML 
 
+- [Julius-Ulee/blowfish](https://github.com/Julius-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [Julius-Ulee/King-Genshin-StarRail-Stats](https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
 - [Julius-Ulee/School-Programs](https://github.com/Julius-Ulee/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
@@ -56,7 +59,6 @@
 ## JavaScript 
 
 - [Julius-Ulee/groqAI-api](https://github.com/Julius-Ulee/groqAI-api) - ⭐ This project retrieves data from Groq AI using API.
-- [Julius-Ulee/blowfish](https://github.com/Julius-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
 - [Julius-Ulee/discord-always-online](https://github.com/Julius-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
@@ -102,6 +104,7 @@
 
 ## Python 
 
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -110,9 +113,19 @@
 - [Julius-Ulee/Perpustakaan](https://github.com/Julius-Ulee/Perpustakaan) - 📚 The program presented is a simple program for a Digital Library. This program utilizes object-oriented programming concepts by using several classes, namely `Color`, `Library`, `Person`, and `Studen
 - [Julius-Ulee/Program-ATM](https://github.com/Julius-Ulee/Program-ATM) - 🏧 Membuat Program ATM Sederhana Menggunakan Python update lagi nih studi kasus tentang python, pada kesempatan kali ini kita akan membahan tentang ATM, kamu pasti pernah menggunakan ATM, untuk mengece
 
+## Rust 
+
+- [worldcoin/world-chain](https://github.com/worldcoin/world-chain) - World Chain monorepo
+- [worldcoin/orb-software](https://github.com/worldcoin/orb-software) - Software for the orb
+
 ## Shell 
 
+- [worldcoin/orb-hardware](https://github.com/worldcoin/orb-hardware) - Hardware specifications and schematics for the Worldcoin Orb.
 - [Julius-Ulee/Daily-Weather-Report](https://github.com/Julius-Ulee/Daily-Weather-Report) - 🌡️ This Bash script retrieves weather information from the OpenWeatherMap API for your city, changes the temperature from Kelvin to Celsius, and updates the contents of the README.md file in the Git r
+
+## Solidity 
+
+- [worldcoin/world-id-contracts](https://github.com/worldcoin/world-id-contracts) - Internal use. Smart contracts powering the World ID protocol and the Worldcoin app airdrops.
 
 ## Svelte 
 
@@ -120,6 +133,7 @@
 
 ## TypeScript 
 
+- [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js

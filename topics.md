@@ -33,6 +33,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
+- [js](#js)
 - [laravel](#laravel)
 - [library](#library)
 - [llm](#llm)
@@ -166,6 +167,7 @@
 
 ## javascript 
 
+- [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
 
@@ -177,6 +179,10 @@
 ## jekyll-theme 
 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+
+## js 
+
+- [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 
 ## laravel 
 
@@ -223,6 +229,10 @@
 
 ## others 
 
+- [worldcoin/orb-hardware](https://github.com/worldcoin/orb-hardware) - Hardware specifications and schematics for the Worldcoin Orb.
+- [worldcoin/world-id-contracts](https://github.com/worldcoin/world-id-contracts) - Internal use. Smart contracts powering the World ID protocol and the Worldcoin app airdrops.
+- [worldcoin/world-chain](https://github.com/worldcoin/world-chain) - World Chain monorepo
+- [worldcoin/orb-software](https://github.com/worldcoin/orb-software) - Software for the orb
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
@@ -265,6 +275,7 @@
 
 ## python 
 
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Julius-Ulee/Program-ATM](https://github.com/Julius-Ulee/Program-ATM) - 🏧 Membuat Program ATM Sederhana Menggunakan Python update lagi nih studi kasus tentang python, pada kesempatan kali ini kita akan membahan tentang ATM, kamu pasti pernah menggunakan ATM, untuk mengece

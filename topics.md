@@ -171,6 +171,7 @@
 
 ## javascript 
 
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 - [biati-digital/glightbox](https://github.com/biati-digital/glightbox) - Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes
@@ -237,6 +238,7 @@
 
 ## others 
 
+- [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [worldcoin/orb-hardware](https://github.com/worldcoin/orb-hardware) - Hardware specifications and schematics for the Worldcoin Orb.
 - [worldcoin/world-id-contracts](https://github.com/worldcoin/world-id-contracts) - Internal use. Smart contracts powering the World ID protocol and the Worldcoin app airdrops.
 - [worldcoin/world-chain](https://github.com/worldcoin/world-chain) - World Chain monorepo
@@ -289,6 +291,7 @@
 
 ## react 
 
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
 ## rest-api 

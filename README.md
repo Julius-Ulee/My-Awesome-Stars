@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
@@ -27,6 +28,10 @@
 ## C 
 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+## C++ 
+
+- [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 
 ## CSS 
 

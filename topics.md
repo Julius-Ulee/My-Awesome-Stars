@@ -39,6 +39,7 @@
 - [library](#library)
 - [llm](#llm)
 - [machine-learning](#machine-learning)
+- [markdown](#markdown)
 - [music](#music)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
@@ -184,7 +185,7 @@
 ## jekyll 
 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for personal, portfolio-based websites; forked from mmistakes/minimal-mistakes
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
 ## jekyll-theme 
 
@@ -209,6 +210,10 @@
 ## machine-learning 
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+
+## markdown 
+
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
 ## music 
 

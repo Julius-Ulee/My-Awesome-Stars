@@ -254,7 +254,7 @@
 
 ## others 
 
-- [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
+- [ashleney/genshin.py](https://github.com/ashleney/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [worldcoin/orb-hardware](https://github.com/worldcoin/orb-hardware) - Hardware specifications and schematics for the Worldcoin Orb.
 - [worldcoin/world-id-contracts](https://github.com/worldcoin/world-id-contracts) - Internal use. Smart contracts powering the World ID protocol and the Worldcoin app airdrops.
 - [worldcoin/world-chain](https://github.com/worldcoin/world-chain) - World Chain monorepo

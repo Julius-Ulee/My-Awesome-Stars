@@ -108,7 +108,7 @@
 
 ## Python 
 
-- [ashleney/genshin.py](https://github.com/ashleney/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 

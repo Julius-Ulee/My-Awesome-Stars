@@ -102,7 +102,6 @@
 ## PHP 
 
 - [Julius-Ulee/Paw-Paw](https://github.com/Julius-Ulee/Paw-Paw) - 😺 Paw-Paw is an e-commerce platform created with Codeigniter. With the increasing prevalence of Paw-Paw pet shops, there is an initiative to develop a website to reach a wider market.
-- [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 - [barbushin/php-imap](https://github.com/barbushin/php-imap) - Manage mailboxes, filter/get/delete emails in PHP (supports IMAP/POP3/NNTP)
 

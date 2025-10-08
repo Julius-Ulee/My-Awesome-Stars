@@ -165,6 +165,7 @@
 
 ## hacktoberfest 
 
+- [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [phpid-jakarta/ajari-koding](https://github.com/phpid-jakarta/ajari-koding) - 📚 Kumpulan berbagai sumber daya untuk belajar koding dari hasil karya para kreator lokal yang terpercaya dan telah dikurasi oleh komunitas PHPID
 
 ## javascript 
@@ -232,6 +233,7 @@
 
 ## others 
 
+- [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
 - [Julius-Ulee/Destiny.Industries](https://github.com/Julius-Ulee/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [worldcoin/orb-hardware](https://github.com/worldcoin/orb-hardware) - Hardware specifications and schematics for the Worldcoin Orb.
@@ -270,6 +272,7 @@
 
 ## php 
 
+- [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 
 ## programming 

@@ -101,6 +101,7 @@
 
 ## PHP 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [gludugbanyu/cbt-eschool](https://github.com/gludugbanyu/cbt-eschool) - CBT soal AKM. Php 8, Javascript, MySql Aplikasi ujian berbasis web. Dirancang untuk mendukung pelaksanaan ujian online di sekolah dengan fitur keamanan, manajemen soal, dan laporan hasil ujian. berbag
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
@@ -142,7 +143,7 @@
 ## TypeScript 
 
 - [ibra-kdbra/Generate_infinite](https://github.com/ibra-kdbra/Generate_infinite) - 
-- [lingdojo/kanadojo](https://github.com/lingdojo/kanadojo) - Fun, aesthetic, minimalist platform for learning and practicing Japanese online.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning and practicing Japanese online.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library

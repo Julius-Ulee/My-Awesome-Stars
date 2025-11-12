@@ -12,6 +12,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Hack](#hack)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
@@ -61,6 +62,10 @@
 ## Hack 
 
 - [Julius-Ulee/website-petshop](https://github.com/Julius-Ulee/website-petshop) - Project ini menggunakan teknologi MVC, 😺🐶Paw-Paw adalah sebuah pet shop yang berkomitmen untuk menyediakan produk dan layanan berkualitas tinggi untuk hewan peliharaan dan pemilik hewan.
+
+## Java 
+
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 
 ## JavaScript 
 

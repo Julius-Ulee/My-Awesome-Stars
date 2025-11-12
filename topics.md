@@ -15,6 +15,7 @@
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [dart](#dart)
 - [database](#database)
@@ -49,6 +50,7 @@
 - [others](#others)
 - [php](#php)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [python](#python)
 - [react](#react)
 - [rest-api](#rest-api)
@@ -107,6 +109,10 @@
 ## cli 
 
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
+
+## compiler 
+
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 
 ## computer-vision 
 
@@ -296,6 +302,10 @@
 ## programming 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## programming-language 
+
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 
 ## python 
 

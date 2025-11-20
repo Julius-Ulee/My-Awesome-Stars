@@ -145,7 +145,7 @@
 
 ## education 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 
 ## flutter 
 
@@ -153,7 +153,6 @@
 
 ## frontend 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 
 ## game 
@@ -181,7 +180,7 @@
 ## hacktoberfest 
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [phpid-jakarta/ajari-koding](https://github.com/phpid-jakarta/ajari-koding) - 📚 Kumpulan berbagai sumber daya untuk belajar koding dari hasil karya para kreator lokal yang terpercaya dan telah dikurasi oleh komunitas PHPID
 
@@ -228,7 +227,7 @@
 
 ## nextjs 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
 ## nlp 
@@ -246,7 +245,7 @@
 
 ## open-source 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 
 ## openai 
 
@@ -317,7 +316,7 @@
 
 ## react 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
@@ -340,7 +339,7 @@
 
 ## tailwindcss 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 
 ## termux 
 
@@ -349,7 +348,7 @@
 ## typescript 
 
 - [ibra-kdbra/Generate_infinite](https://github.com/ibra-kdbra/Generate_infinite) - 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 - [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
@@ -359,7 +358,7 @@
 
 ## webapp 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Fun, aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Monkeytype.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## website 

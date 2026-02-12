@@ -23,7 +23,6 @@
 - [design](#design)
 - [development](#development)
 - [discord](#discord)
-- [education](#education)
 - [flutter](#flutter)
 - [frontend](#frontend)
 - [game](#game)
@@ -31,6 +30,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -58,7 +58,6 @@
 - [serverless](#serverless)
 - [statistics](#statistics)
 - [symfony](#symfony)
-- [tailwindcss](#tailwindcss)
 - [termux](#termux)
 - [typescript](#typescript)
 - [web](#web)
@@ -144,10 +143,6 @@
 - [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
 
-## education 
-
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype. Built with Next.js and powered by Vercel.
-
 ## flutter 
 
 - [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
@@ -178,10 +173,14 @@
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
+## good-first-issue 
+
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype - built with Next.js and powered by Vercel. Beginner-friendly with plenty of good first issues - all contributi
+
 ## hacktoberfest 
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype. Built with Next.js and powered by Vercel.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype - built with Next.js and powered by Vercel. Beginner-friendly with plenty of good first issues - all contributi
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [phpid-jakarta/ajari-koding](https://github.com/phpid-jakarta/ajari-koding) - 📚 Kumpulan berbagai sumber daya untuk belajar koding dari hasil karya para kreator lokal yang terpercaya dan telah dikurasi oleh komunitas PHPID
 
@@ -228,7 +227,7 @@
 
 ## nextjs 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype. Built with Next.js and powered by Vercel.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype - built with Next.js and powered by Vercel. Beginner-friendly with plenty of good first issues - all contributi
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
 ## nlp 
@@ -246,7 +245,7 @@
 
 ## open-source 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype. Built with Next.js and powered by Vercel.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype - built with Next.js and powered by Vercel. Beginner-friendly with plenty of good first issues - all contributi
 
 ## openai 
 
@@ -321,7 +320,7 @@
 
 ## react 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype. Built with Next.js and powered by Vercel.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype - built with Next.js and powered by Vercel. Beginner-friendly with plenty of good first issues - all contributi
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
@@ -342,10 +341,6 @@
 
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 
-## tailwindcss 
-
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype. Built with Next.js and powered by Vercel.
-
 ## termux 
 
 - [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
@@ -353,7 +348,7 @@
 ## typescript 
 
 - [ibra-kdbra/Generate_infinite](https://github.com/ibra-kdbra/Generate_infinite) - 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype. Built with Next.js and powered by Vercel.
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype - built with Next.js and powered by Vercel. Beginner-friendly with plenty of good first issues - all contributi
 - [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time for over 10 years in this repo
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
@@ -363,7 +358,6 @@
 
 ## webapp 
 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype. Built with Next.js and powered by Vercel.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## website 

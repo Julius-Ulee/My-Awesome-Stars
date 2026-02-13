@@ -45,7 +45,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## HTML 
 
@@ -152,7 +152,7 @@
 ## TypeScript 
 
 - [ibra-kdbra/Generate_infinite](https://github.com/ibra-kdbra/Generate_infinite) - 
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype - built with Next.js and powered by Vercel. Beginner-friendly with plenty of good first issues - all contributi
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and powered by Vercel. Beginner-friendly with plenty of good first issues - all contributio
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
